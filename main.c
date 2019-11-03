@@ -11,6 +11,7 @@ int main()
     a=b=0;
     n=1;
     r=20;
+    printf("Hello World..!!");
 
     printf("enter the nth no. you want to search : ");
     scanf("%d",&r);
